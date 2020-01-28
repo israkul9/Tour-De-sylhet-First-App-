@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".MainActivity"
+
+    >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="30sp"
+      android:text="Tourist Places in Sylhet"
+        android:textColor="#fa26ff22"
+        android:textSize="50sp"
+
+        />
+
+
+    <LinearLayout
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:layout_gravity="center"
+
+        >
+
+        <Button
+
+            android:id="@+id/Open"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/button_name"
+            android:textStyle="bold"
+            android:textSize="40sp"
+            android:textAllCaps="false"
+
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>

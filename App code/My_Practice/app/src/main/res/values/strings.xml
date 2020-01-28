@@ -1,0 +1,195 @@
+<resources>
+
+    <string name="app_name">Tour_de_Sylhet</string>
+    <string name="text_name"> Tourist Places of Sylhet City ।</string>
+    <string name="button_name"> Open  </string>
+    <string-array name="Spot_Names">
+
+
+        <item>Hazrat_Shahjalal_Mazar_Sharif</item>
+        <item>Shahjalal_University_of_Science_and_Technology</item>
+        <item>Sylhet_Engineering_College</item>
+        <item>Sylhet_Agricultural_University</item>
+        <item>MC_College</item>
+        <item>Ali_Amjad_s_Clock</item>
+        <item>Keane_Bridge</item>
+        <item>Osmani_Museum</item>
+        <item>Bisanakandi</item>
+        <item>Jaflong</item>
+        <item>Ratargul_Swamp_Forest</item>
+        <item>Tilagor_Eco_Park</item>
+        <item>Shimul_Garden,_Sunamganj</item>
+        <item>Tanguar_haor</item>
+        <item>Others_Spot...</item>
+
+
+
+    </string-array>
+
+
+    <string name="Mazaar">
+
+        Shahjalal Dorgha: Hazrat Shahjalal Mazar \n\n
+        Location : Dorgah Gate (Near Amborkhana) , Sylhet City 3100, Bangladesh\n
+        Shajalal Dorgha is a religious places of Bangladesh.\n
+        Hazrat shah jalal who brought islam for Bangladesh.\n
+        Many pilgrims are gathered that place to see his grave(Mazar) for praying\n
+
+    </string>
+
+
+    <string name="SUST">
+
+        Shahjalal University of Science and Technology also known as SUST \n\n
+        It is the 8th oldest university in Bangladesh and the first university\n
+        to adopt American credit system in the country.\n
+        Location:  ‎Akhalia, ‎Kumargaon, Sylhet\n
+
+ </string>
+
+
+
+    <string name="SEC">
+
+        Sylhet Engineering College is a public undergraduate College, established in 2007\n\n
+        Location‎: ‎Alurtol Road, Tilagarh, Sylhet-3100\n
+        This institite runs with three faculties, they are\n
+        CSE , EEE , CIVIL \n
+
+    </string>
+
+    <string name="sau">
+
+        Sylhet Agricultural University is a government-financed public university in Sylhet\n\n
+        Location : Alurtol Road, Sylhet 3100\n
+
+    </string>
+
+    <string name="MC">
+        Murari Chand University College was the first college in Sylhet.\n\n
+        It was established in 1892.\n
+        Since then it has played an important role in the educational,\n
+        cultural, and political spheres of greater Sylhet.\n
+
+    </string>
+
+    <string name="clock">
+
+    Ali Amjads Clock is the oldest clock tower located on the bank of Surma River in Sylhet, Bangladesh.\n\n
+    It is known as the Big Ben of Sylhet and is a popular attraction, near to the Keane Bridge.\n
+    Location :  Kazir Bazar Rd, Sylhet 3100\n
+    Material: Tin\n
+
+
+</string>
+
+
+    <string name="Kin">
+
+        The Keane Bridge is a notable landmark of Sylhet city, Bangladesh.\n\n
+        This bridge is called the gateway to Sylhet city.\n
+       Location: 21/c Puranlane N2, Sylhet\n
+        Total length: 351 m\n
+    Opened: 1936\n
+     Width: 5.4 m\n
+
+
+
+    </string>
+
+<string name="musuam">
+
+    Osmani Museum is a museum in Kotwali Thana of Sylhet, Bangladesh.\n\n
+    The ancestors home of Bangabir General Muhammad Ataul Gani Osmani\n
+    the Commander in Chief of Bangladesh Forces has been transformed into todays famous Osmani Museum\n
+
+
+</string>
+
+
+    <string name="bisna">
+
+        সিলেট জেলার সীমান্তবর্তী পানি-পাথরের নতুন ভ্রমণ গন্তব্য বিছনাকান্দি।
+        আকাশছোঁয়া পাহাড়ের কোলে এ জায়গায় আাছে প্রকৃতির অপরূপ রূপের বিছানা পাতা।
+        সিলেট শহর থেকে বিছানাকান্দি যেতে ২.৫০ ঘন্টা থেকে ৩ ঘন্টা সময় লাগে।
+        বছরের জেকোন যাওয়া যায় তবে বর্ষা কালে গেলে আসল রুপ দেখা যায়।
+        বর্ষাকাল বলেই নৌকায় যাতায়াত করা যায়
+
+    </string>
+
+
+
+    <string name="jaf">
+
+        জাফলং হল সিলেট বিভাগের একটি হিল স্টেশন এবং অন্যতম আকর্ষণীয় পর্যটন কেন্দ্র।
+        সিলেট শহর থেকে ৬০ কিলোমিটার দূরে অবস্থিত এই পর্যটন কেন্দ্রে সড়কপথে পৌছাতে প্রায় দুই ঘণ্টা সময় লাগে।
+        পাথর সংগ্রহ করা এবং আদিবাসী খাসিয়া সম্প্রদায়ের বসবাস এই দুটি কারনে জাফলং এর খ্যাতি রয়েছে।
+        চা বাগান এবং পাহাড় থেকে গড়িয়ে আসা পাথরের বিরল সৌন্দর্যের দেখা মিলবে এখানে।
+
+
+    </string>
+
+    <string name="ratar">
+
+        রাতারগুল সোয়াম্প ফরেস্ট সিলেটের গোয়াইন ঘাট এর নিকটে অবস্থিত
+        সিলেট শহর থেকে গোয়াইন ঘাট যেতে আড়াই-তিন ঘন্টা লাগে  ।
+        সেখান থেকে ট্রলার এর মাধ্যমে ফরেস্টে যাওয়া যায় ।
+        সেক্ষেত্রে ২০০-৫০০ টাকা ভারা লাগে । এটা ডিপেন্ড করে আপনি কতখন
+        ট্রলারে থাকবেন এর উপর ।
+
+
+    </string>
+
+    <string name="eco">
+
+        টিলাগর ইকো পার্ক বাংলাদেশের ৩য় ইকোপার্ক ।
+        এটি সিলেট শহরের টিলাগরে অবস্থিত ।
+        চারপাশের গাছপালায় ঘেরা অন্যতম সুন্দর এই পার্ক।
+        সিলেট শহরের টিলাগর পয়েন্ট থেকে ১০ - ১৫ মিনিট সময় লাগে এই পার্কে যেতে
+
+
+    </string>
+
+
+    <string name="bagan">
+
+
+        সুনামগঞ্জের যাদুকাটা নদীর তীরে দেশের বৃহত্তম শিমুল বাগান
+         ডালে ডালে খুনসুটিতে ব্যস্ত পাখিরা। বাসন্তি হাওয়ায় নতুন প্রাণের স্পন্দন প্রকৃতিতে।
+        সুনামগঞ্জে দেশের সবচেয়ে বড় শিমুল বাগানে এমন চিত্র ফুটে উঠেছে এখন।
+        যাতায়ত এর ক্ষেত্রে বাস ভারা ১০০ টাকা করে সুনামগঞ্জ ব্রিজ পর্যন্ত ।
+        তারপর সেখান থেকে লেগুনা অথবা সি এন জি অথবা বাইক এ করে শিমুল বাগানে যেতে হবে।
+        বাইকের ক্ষেত্রে ভারা ৪০০ - ৫০০ টাকা নিবে ।
+
+
+    </string>
+
+
+    <string name="Tabgua">
+
+
+        Tanguar haor (Bengali: টাঙ্গুয়ার হাওর), (also called Tangua haor),\\n
+        located in the Dharmapasha and Tahirpur upazilas of Sunamganj District in Bangladesh,\n
+        সিলেট থেকে জন প্রতি ঘুরে আসতে ১৫০০ টাকার মত খরচ হবে । ঢাকা থেকে আসতে চাইলে আপনাকে গুন্তে হবে ২৫০০+
+        টাকার মত । প্রাকিতিক সুন্দযের লীলাভূমি গুলোর মাজে এটি অন্যতম ।
+
+
+    </string>
+
+
+    <string name="others">
+
+        এছারা সুনামগঞ্জের আশে পাশে আরো রয়েছেঃ
+        Tahirpur Upazilla\n
+         Watchtower Tekerghat\n
+         Takerghat Niladri Lake\n
+         Shahid Siraj Lake Barikka Tila\n
+        Lakhma Chara Tekerhat Jhiri\n
+        Jadukata River\n
+        তাছারা সিলেটের আশে পাশে প্রচুর চা বাগান রয়েছে ।\n
+
+
+
+    </string>
+
+</resources>
